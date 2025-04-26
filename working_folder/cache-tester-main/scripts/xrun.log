@@ -1,0 +1,10 @@
+xrun(64): 23.09-s006: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xrun(64)	23.09-s006: Started on Oct 11, 2024 at 15:20:06 PKT
+xrun
+	fully_associative.sv
+	./tb/cache_testbench.sv
+	-access +rwc
+	-gui
+xrun: *E,FILEMIS: Cannot find the provided file fully_associative.sv.
+xrun: *E,FILEMIS: Cannot find the provided file ./tb/cache_testbench.sv.
+TOOL:	xrun(64)	23.09-s006: Exiting on Oct 11, 2024 at 15:20:06 PKT  (total: 00:00:00)

@@ -1,0 +1,88 @@
+*** Message Type: info ***
+When: Fri Oct 11 09:03:41 AM PKT 2024
+SimVision started.
+Version: TOOL:  simvision(64)   23.09-s006
+User: cc
+Host: ncdc-0048
+Platform: Linux/x86_64/4.18.0-372.32.1.el8_6.x86_64
+Started: Fri Oct 11 09:03:41 AM PKT 2024
+Command: /home/cc/mnt/XCELIUM2309/tools.lnx86/simvision/bin/64bit/simvision.exe -connect dc:ncdc-0048:43819 -64BIT -nocopyright
+Work Directory: /home/cc/Usama/cache-tester-main
+ 
+*** Message Type: info ***
+When: Fri Oct 11 09:03:41 AM PKT 2024
+Create browser window: "Design Browser 1"
+ 
+*** Message Type: info ***
+When: Fri Oct 11 09:03:43 AM PKT 2024
+Create console window: "Console"
+ 
+*** Message Type: info ***
+When: Fri Oct 11 09:03:45 AM PKT 2024
+Connect to Simulator
+      Design: worklib.set_associative:sv
+   Languages: verilog
+   Simulator: XM-Sim
+     Version: TOOL: xmsim(64)       23.09-s006
+        User: cc
+        Host: ncdc-0048
+Time Started: Fri Oct 11 09:03:39 AM PKT 2024
+  Process ID: 152237
+   Directory: /home/cc/Usama/cache-tester-main
+     Command: xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui
+
+ 
+*** Message Type: info ***
+When: Fri Oct 11 09:03:45 AM PKT 2024
+Create utility window: "Properties"
+ 
+*** Message Type: info ***
+When: Fri Oct 11 09:04:12 AM PKT 2024
+Delete browser window: "Design Browser 1"
+ 
+*** Message Type: info ***
+When: Fri Oct 11 09:04:18 AM PKT 2024
+Exit XM-Sim: user
+      Design: worklib.set_associative:sv
+   Languages: verilog
+   Simulator: XM-Sim
+     Version: TOOL: xmsim(64)       23.09-s006
+        User: cc
+        Host: ncdc-0048
+Time Started: Fri Oct 11 09:03:39 AM PKT 2024
+  Process ID: 152237
+   Directory: /home/cc/Usama/cache-tester-main
+     Command: xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui
+
+ 
+*** Message Type: error ***
+When: Fri Oct 11 09:04:18 AM PKT 2024
+XM-Sim Crashed:
+      Design: worklib.set_associative:sv
+   Languages: verilog
+   Simulator: XM-Sim
+     Version: TOOL: xmsim(64)       23.09-s006
+        User: cc
+        Host: ncdc-0048
+Time Started: Fri Oct 11 09:03:39 AM PKT 2024
+  Process ID: 152237
+   Directory: /home/cc/Usama/cache-tester-main
+     Command: xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui
+      Design: worklib.set_associative:sv
+   Languages: verilog
+   Simulator: XM-Sim
+     Version: TOOL:   xmsim(64)       23.09-s006
+        User: cc
+        Host: ncdc-0048
+Time Started: Fri Oct 11 09:03:39 AM PKT 2024
+  Process ID: 152237
+   Directory: /home/cc/Usama/cache-tester-main
+     Command: xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui
+
+Outstanding STRAP Requests:
+        strap::report enable out
+ 
+*** Message Type: info ***
+When: Fri Oct 11 09:04:21 AM PKT 2024
+SimVision Exit.
+ 

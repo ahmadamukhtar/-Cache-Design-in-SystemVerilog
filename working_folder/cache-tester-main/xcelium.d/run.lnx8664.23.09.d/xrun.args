@@ -1,0 +1,9 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+fully_associative.sv
+./tb/cache_testbench.sv
+-access
++rwc
+-gui

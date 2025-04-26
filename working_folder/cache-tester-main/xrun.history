@@ -1,0 +1,63 @@
+s1(11Oct2024:05:05:39):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s2(11Oct2024:05:06:21):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s3(11Oct2024:05:11:00):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s4(11Oct2024:05:15:21):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s5(11Oct2024:05:18:58):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s6(11Oct2024:05:26:35):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s7(11Oct2024:05:28:45):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s8(11Oct2024:05:30:19):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s9(11Oct2024:05:38:52):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s10(11Oct2024:05:42:52):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s11(11Oct2024:05:54:13):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s12(11Oct2024:05:54:37):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s13(11Oct2024:05:59:18):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s14(11Oct2024:06:12:57):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s15(11Oct2024:06:16:56):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s16(11Oct2024:06:17:38):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s17(11Oct2024:06:18:45):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s18(11Oct2024:06:34:10):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s19(11Oct2024:06:35:29):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s20(11Oct2024:06:38:19):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s21(11Oct2024:06:40:02):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s22(11Oct2024:06:41:11):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s23(11Oct2024:06:45:27):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s24(11Oct2024:06:47:37):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s25(11Oct2024:06:50:25):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s26(11Oct2024:06:53:18):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s27(11Oct2024:06:54:56):  xrun direct_mapped.sv ./tb/cache_testbench.sv -access +rwc -gui -timescale 1ns/1ps 
+s28(11Oct2024:08:58:40):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s29(11Oct2024:08:59:58):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s30(11Oct2024:09:00:47):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s31(11Oct2024:09:02:18):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s32(11Oct2024:09:03:38):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s33(11Oct2024:09:09:02):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s34(11Oct2024:09:10:33):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s35(11Oct2024:09:16:53):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s36(11Oct2024:11:36:45):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s37(11Oct2024:11:43:09):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s38(11Oct2024:11:46:34):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s39(11Oct2024:11:56:15):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s40(11Oct2024:12:06:28):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s41(11Oct2024:12:07:27):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s42(11Oct2024:12:23:58):  xrun set_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s43(11Oct2024:12:59:48):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s44(11Oct2024:13:01:54):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s45(11Oct2024:13:02:31):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s46(11Oct2024:13:15:19):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s47(11Oct2024:13:19:10):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s48(11Oct2024:13:21:14):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s49(11Oct2024:14:29:31):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s50(11Oct2024:14:38:24):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s51(11Oct2024:14:40:40):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s52(11Oct2024:14:43:06):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s53(11Oct2024:14:50:07):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s54(11Oct2024:14:54:33):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s55(11Oct2024:14:58:54):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s56(11Oct2024:15:06:59):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s57(11Oct2024:15:14:56):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s58(11Oct2024:15:22:03):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s59(11Oct2024:15:24:36):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s60(11Oct2024:15:26:45):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s61(11Oct2024:15:29:03):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s62(11Oct2024:15:30:52):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
+s63(13Oct2024:13:52:22):  xrun fully_associative.sv ./tb/cache_testbench.sv -access +rwc -gui 
