@@ -1,4 +1,4 @@
-Cache Design in SystemVerilog
+    Cache Design in SystemVerilog
 This project implements and evaluates three types of cache architectures using SystemVerilog:
 
 Direct Mapped Cache
